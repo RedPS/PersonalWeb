@@ -6,3 +6,5 @@ I will be using simple HTML, CSS, Javascript. This website will be hosted on Git
 
 - upload the skeleton of the web
 - host this on GitHub Pages
+- add slick
+- add font
