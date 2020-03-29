@@ -8,3 +8,4 @@ I will be using simple HTML, CSS, Javascript. This website will be hosted on Git
 - host this on GitHub Pages
 - add slick
 - add font
+- add main-content
