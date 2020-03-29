@@ -5,3 +5,4 @@ I will be using simple HTML, CSS, Javascript. This website will be hosted on Git
 ## TODO:
 
 - upload the skeleton of the web
+- host this on GitHub Pages
