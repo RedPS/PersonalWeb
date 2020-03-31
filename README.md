@@ -4,9 +4,9 @@ I will be using simple HTML, CSS, Javascript. This website will be hosted on Git
 
 ## TODO:
 
-- upload the skeleton of the web
 - host this on GitHub Pages
-- add slick
+- ~~add slick~~ not needed with the new design
 - add font
-- add main-content
+- ~~add main-content~~
 - organize fontawesome stuff better
+- add a nav
