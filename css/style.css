@@ -99,8 +99,7 @@ hr {
 }
 /* -- NAV BAR -- */
 :root {
-  --primary-color: rgba(13, 110, 139, 0.75);
-  --overlay-color: rgba(24, 39, 51 , 0.85);
+  --overlay-color: rgba(0, 0, 0, 0.97);
   --menu-speed: 0.75s;
 }
 
@@ -214,7 +213,7 @@ hr {
 
 .menu-wrap .menu > div {
   background: var(--overlay-color);
-  border-radius: 50%;
+  border-radius: none;
   width: 200vw;
   height: 200vw;
   display: flex;
